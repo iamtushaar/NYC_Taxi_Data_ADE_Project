@@ -1,5 +1,7 @@
 # NYC_Taxi_Data_ADE_Project
 
+NYC Taxi Data Azure Data Engineering Project
+
 Developed a fully automated data pipeline for processing NTYC Taxi data leveraging Azure cloud technologies. Key project steps include:
 
 Data Ingestion:
