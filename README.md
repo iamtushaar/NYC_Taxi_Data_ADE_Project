@@ -2,7 +2,7 @@
 
 NYC Taxi Data Azure Data Engineering Project
 
-Developed a fully automated data pipeline for processing NTYC Taxi data leveraging Azure cloud technologies. Key project steps include:
+Developed a fully automated data pipeline for processing NYC Taxi data leveraging Azure cloud technologies. Key project steps include:
 
 Data Ingestion:
 Utilized Azure Data Factory (ADF) to copy Green Taxi Trip Records files for 2023 from the NYC Taxi website to the ADLS raw zone. The process leveraged a single copy activity with parameterized datasets to ensure efficient and dynamic data ingestion.
