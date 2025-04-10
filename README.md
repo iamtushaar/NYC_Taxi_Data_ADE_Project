@@ -2,6 +2,8 @@
 
 NYC Taxi Data Azure Data Engineering Project
 
+![image](https://github.com/iamtushaar/NYC_Taxi_Data_ADE_Project/blob/main/Screenshots/Architecture.jpg)
+
 Developed a fully automated data pipeline for processing NYC Taxi data leveraging Azure cloud technologies.
 
 ![image](https://github.com/iamtushaar/NYC_Taxi_Data_ADE_Project/blob/c494d0506d3d68077ff943326d3cc7ec0fafecf6/Screenshots/End-to-End%20Pipeline.png)
